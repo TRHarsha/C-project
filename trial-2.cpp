@@ -40,7 +40,7 @@ int main() {
     {
         if(common_disease== "Gastroenteritis")
         {
-            cout<<"\ndrink plenty of fluids to avoid dehydration;\n you need to drink more than usual to replace the fluids lost from vomiting and diarrhoea – water is best,\n"<<endl;
+            cout<<"\ndrink plenty of fluids to avoid dehydration;\n you need to drink more than usual to replace the fluids lost from vomiting and diarrhoea â€“ water is best,\n"<<endl;
             cout<<"but you could also try fruit juice and soup.\n take paracetamol for any fever or aches and pains.get plenty of rest.\n"<<endl;
         }
         else if(common_disease== "Migraine")

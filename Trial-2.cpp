@@ -55,6 +55,6 @@ int main() {
         }
     }
     else
-        cout<<"thank you"<<endl;
+        cout<<"thank you"<<endl; 
     return 0;
 }
